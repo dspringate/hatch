@@ -1,0 +1,9 @@
+---
+title: Post One
+date: 2016-05-17 10:21:00 Z
+tags:
+- tag
+- tags
+---
+
+This is an example post
