@@ -22,3 +22,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+Description: This is the site description.
